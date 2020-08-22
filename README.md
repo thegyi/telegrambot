@@ -1,2 +1,2 @@
 # telegrambot
-Simple c++ Telegram bot with additional commands (/file /cmd)
+Simple C++ Telegram bot with additional commands (/file /cmd)
