@@ -10,7 +10,7 @@ using namespace std;
 using namespace TgBot;
 
 int main() {
-    TgBot::Bot bot("1054540091:AAEnPw4H8JxQZUNkkNC7jdMcJ8SlHgepycA");
+    TgBot::Bot bot("");
     bot.getEvents().onCommand("start", [&bot](TgBot::Message::Ptr message) {
         bot.getApi().sendMessage(message->chat->id, "Hi!");
     });
