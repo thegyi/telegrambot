@@ -1,8 +1,12 @@
 # telegrambot
 Simple C++ Telegram bot with additional commands (/file /cmd)
 
-## Bot compilation
-
-cmake .
-
-make
+***
+##Dependencies
+	boost_system
+	openssl
+	
+***
+##  Bot compilation
+	cmake .
+	make
