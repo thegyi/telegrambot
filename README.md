@@ -2,7 +2,7 @@
 Simple C++ Telegram bot with additional commands (/file /cmd)
 
 ***
-##Dependencies
+## Dependencies
 	boost_system
 	openssl
 	
